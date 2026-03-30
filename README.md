@@ -21,9 +21,8 @@ This repository contains my core programming assessments from the MSc Cancer Gen
 ## 📁 Repository Structure
 
 ### 📂 [R Programming Assessment](./R_Programming_Assessment)
-- **[Guidelines](./R_Programming_Assessment/R-Assessment-Guidelines.pdf)**: Official project requirements and evaluation criteria.
-- **[R Analysis Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Bioinformatics-Programming-Foundations/blob/main/R_Programming_Assessment/R-Biological-Data-Analysis.html)**: Interactive R Notebook with complete solutions and visualizations.
-
+- **[Guidelines](./R_Programming_Assessment/R-Assessment.pdf)**: Official project requirements and evaluation criteria.
+- **[R Analysis Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Bioinformatics-Programming-Foundations/blob/main/R_Programming_Assessment/R.html)**: Interactive R Notebook with complete solutions and visualizations.
 ### 📂 [Python Programming Assessment](./Python_Programming_Assessment)
 - **[Guidelines](./Python_Programming_Assessment/Python-Assessment-Guidelines.pdf)**: Official project requirements and evaluation criteria.
 - **[Python Genomics Report](https://htmlpreview.github.io/?https://github.com/rojanmohammadi/Bioinformatics-Programming-Foundations/blob/main/Python_Programming_Assessment/Python-Genomic-Algorithms.html)**: Jupyter-based report showcasing Python-based genomic solutions.
